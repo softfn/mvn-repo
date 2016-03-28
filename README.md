@@ -4,8 +4,9 @@ My personal maven repository.
 # Usage
     <distributionManagement>
         <repository>
-            <id>softfn-mvn-repo</id>
+            <id>softfn-repo</id>
             <url>file:/Users/willben/IdeaProjects/mvn-repo/repository/</url>
+            <url>file:E:/IdeaProjects/mvn-repo/repository/</url>
         </repository>
     </distributionManagement>
     
@@ -19,4 +20,3 @@ My personal maven repository.
             </snapshots>
         </repository>
     </repositories>
-
