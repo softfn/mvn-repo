@@ -8,7 +8,7 @@ My personal maven repository.
     <distributionManagement>
         <repository>
             <id>softfn-repo</id>
-            <url>file:../../mvn-repo/repository/</url>
+            <url>file:../mvn-repo/repository/</url>
         </repository>
     </distributionManagement>
     
