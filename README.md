@@ -2,11 +2,13 @@
 My personal maven repository.
 
 # Usage
+
+    pom.xml:
+    
     <distributionManagement>
         <repository>
             <id>softfn-repo</id>
-            <url>file:/Users/willben/IdeaProjects/mvn-repo/repository/</url>
-            <url>file:E:/IdeaProjects/mvn-repo/repository/</url>
+            <url>file:../../mvn-repo/repository/</url>
         </repository>
     </distributionManagement>
     
